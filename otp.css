@@ -1,0 +1,35 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 300px;
+    background-color: wheat;
+    
+
+
+}
+div{
+    background: url('80qW.gif') no-repeat ;
+    background-size: cover;
+    border: 1px solid ;
+    border-radius: 5px;
+    padding: 100px;
+}
+label{
+    color: goldenrod;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+button{
+    background-color: blue;
+    border-radius: 10px;
+    padding: 5px;
+}
+/* input{
+    margin-left: 10px;
+    
+} */
+input{
+  border-top: 1px;
+  
+}
